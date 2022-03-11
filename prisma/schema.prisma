@@ -11,7 +11,7 @@ datasource db {
 }
 
 // Creating a modal
-
+// Creating Migration with prisma : "yarn prisma migrate dev"
 model User {
     id         String @id @default(uuid()) // define primary key
     name       String

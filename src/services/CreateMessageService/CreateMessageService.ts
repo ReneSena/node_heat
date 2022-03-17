@@ -1,6 +1,6 @@
 import prismaClient from "../../prisma";
 
-interface ICreateMessageService {
+export interface ICreateMessageService {
 	text: string;
 	user_id: string;
 }

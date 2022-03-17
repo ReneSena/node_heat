@@ -5,7 +5,11 @@ interface IPayload {
 	sub: string;
 }
 
-export function ensureAuthenticated(request: Request, response: Response, next: NextFunction) {
+export interface IRequestCustom extends Request {
+	user_id: string
+}
+
+export function ensureAuthenticated(request: IRequestCustom, response: Response, next: NextFunction) {
 	const authToken = request.headers.authorization;
 
 	if(!authToken) {

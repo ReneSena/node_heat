@@ -13,6 +13,7 @@ Create an API to do authentication with the GitHub
 - Express
 - Json Web Token
 - TS Node
+- WebSocket
 
 ## 🚀 Running the project in environment local
 

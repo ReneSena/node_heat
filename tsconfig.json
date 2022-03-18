@@ -4,6 +4,7 @@
     "module": "commonjs",
     "strict": false,
 	 "typeRoots": ["./src/@types", "./node_modules/@types"],
-    "forceConsistentCasingInFileNames": true
+    "forceConsistentCasingInFileNames": true,
+	"esModuleInterop": true
   }
 }

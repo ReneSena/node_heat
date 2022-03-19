@@ -1,6 +1,6 @@
 ## 🎯 Objective
 
-Create an API to do authentication with the GitHub
+Create an API to do authentication with the GitHub (The project was developed during the NLW of Rocketseat)
 
 ## 🛠️ Technologies
 

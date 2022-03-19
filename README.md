@@ -4,16 +4,16 @@ Create an API to do authentication with the GitHub
 
 ## 🛠️ Technologies
 
-- Nodejs
-- Typescript
-- Prisma
-- DotEnv
-- Yarn
-- Axios
-- Express
-- Json Web Token
-- TS Node
-- WebSocket
+- [Nodejs](https://nodejs.org/en/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Prisma](https://www.prisma.io/)
+- [DotEnv](https://www.npmjs.com/package/dotenv)
+- [Yarn](https://yarnpkg.com/)
+- [Axios](https://axios-http.com/ptbr/docs/intro)
+- [Express](https://expressjs.com/pt-br/)
+- [Json Web Token](https://jwt.io/)
+- [TS Node](https://www.npmjs.com/package/ts-node)
+- [WebSocket](https://socket.io/)
 
 ## 🚀 Running the project in environment local
 

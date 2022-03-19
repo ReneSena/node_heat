@@ -1,9 +1,8 @@
 ## folder
 node_modules
+.vscode
 
 ## file
 package-lock.json
 yarn.lock
-
-##
 .env

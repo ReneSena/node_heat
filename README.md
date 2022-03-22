@@ -35,4 +35,11 @@ yarn install
 yarn dev
 ```
 
+## 🖥️ Features developed
+
+- [x] Authentication user with GitHub
+- [x] Create of Messages
+- [x] Recover the last messages created
+- [x] Profile User Information
+
 🏁 ✨ ✨

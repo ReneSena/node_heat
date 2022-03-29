@@ -35,6 +35,8 @@ yarn install
 yarn dev
 ```
 
+- The app runs on `Port 4000`
+
 ## 🖥️ Features developed
 
 - [x] Authentication user with GitHub
